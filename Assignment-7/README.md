@@ -6,7 +6,7 @@ In this assignment, a lambda expression named `displayMsg` has been implemented 
 
 ## purpose
 
-The purpose of this lambda expression is to provide a message indicating that the file was not found.
+```The purpose of this lambda expression is to provide a message indicating that the file was not found.```
 
 ## Implementation Steps
 
