@@ -2,7 +2,8 @@
  
 ## Overview
  
-This assignment focuses on the utilization of the `std::map` container in C++ STL. In the `Assignment-11/headers/Triangulation.h` file, a `std::map<Triangle, double> tArea` is declared to store pairs of `Triangle` objects and their areas. The container is populated using the `void Triangulation::setArea()` function. Additionally, two methods are available to retrieve and print the areas:
+This assignment focuses on the utilization of the `std::map` container in C++ STL. 
+In the `Assignment-11/headers/Triangulation.h` file, a `std::map<Triangle, double> tArea` is declared to store pairs of `Triangle` objects and their areas. The container is populated using the `void Triangulation::setArea()` function. Additionally, two methods are available to retrieve and print the areas:
  
 1. **Print Areas:**
    - Method: `void Triangulation::printArea()`
