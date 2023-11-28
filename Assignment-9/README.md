@@ -22,4 +22,5 @@ This assignment involves use of sequential containers such as list, vector and d
    - Reader reads the **.stl** file and writer writes in the **.txt** file.
  
 3. **Part 2 and 3**
-   - The above steps are equally applicable for other containers such as `std::list` and `std::deque` also.  
+   - The above steps are equally applicable for other containers such as `std::list` and `std::deque` also.
+   - 
