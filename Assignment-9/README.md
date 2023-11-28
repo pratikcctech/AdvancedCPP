@@ -5,10 +5,9 @@
 This assignment involves use of sequential containers such as list, vector and deque.
  
 ## Updated Function Definition
- 
-1. **Function File:**
-   - Function Definition: `/src/Reader.cpp` file Reader class object reads the file.
-   - The file provided is `.stl` file so the reader reads data of triangles present in the `.stl` file and  stores in the vector of triangles of class triangulation.
+ 1. **Action Record:**
+   - Function Definition: A Reader class object (`/src/Reader.cpp` file) reads the file.
+   - The supplied file is a `.stl`file, which the reader reads to save the triangle data in the vector of triangles for the class triangulation.
    ```
        std::list<Triangle> mTriangles;
    ```
