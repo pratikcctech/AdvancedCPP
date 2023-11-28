@@ -15,8 +15,8 @@ the Standard Template Library (STL) and the usage of iterators for data manipula
 and operate on data structures such as vectors, lists, etc.
 
 ## Iterators: 
-    **Iterators are objects used to traverse and manipulate elements within a container. **
-    **They act as pointers pointing to elements in a sequence and provide a way to access elements in a container.**
+    Iterators are objects used to traverse and manipulate elements within a container.
+    They act as pointers pointing to elements in a sequence and provide a way to access elements in a container.
 
 ## **Usage and Characteristics**
 **Algorithms:**
