@@ -26,9 +26,9 @@ They perform operations on elements within containers and can take iterators as 
 Different types of iterators (e.g., begin, end, const_iterator) allow various operations on containers.<br>
 They support movement through containers and provide access to elements.<br>
 ##
-    ```for (auto it = triangles.begin(); it != triangles.end(); ++it)
+    for (auto it = triangles.begin(); it != triangles.end(); ++it)
       {
     std::cout << (*it).p1().x() << " " << (*it).p1().y() << " " << (*it).p1().z() << std::endl;
     std::cout << (*it).p2().x() << " " << (*it).p2().y() << " " << (*it).p2().z() << std::endl;
     std::cout << (*it).p3().x() << " " << (*it).p3().y() << " " << (*it).p3().z() << std::endl;
-      }```
+      }
