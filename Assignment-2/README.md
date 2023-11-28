@@ -4,7 +4,7 @@
 
 A C++ function in this project returns a {std::string} containing a message.
 
-in this assignment the use of the function to printbthe string which will return the checking or validation of the file loading in the project by the class  `reader`
+in this assignment the use of the function to print the string which will return the checking or validation of the file loading in the project by the class  `reader`
 
 
 
