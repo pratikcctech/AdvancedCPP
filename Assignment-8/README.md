@@ -5,7 +5,7 @@
 This assignment focuses on understanding and applying algorithms and iterators in C++. It explores the use of standard algorithms provided by 
 the Standard Template Library (STL) and the usage of iterators for data manipulation and processing.
 
-**Contents**
+##Contents
 1) About Algorithms and Iterators
 2) Usage and Characteristics
 3) Example Usage
