@@ -20,6 +20,7 @@ class Triangle : public Point3D
 ```
  
 ```
+
 class Triangulation : public Triangle
 {
 };
