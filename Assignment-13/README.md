@@ -23,4 +23,5 @@ The objective is to make the program faster by directly treating a part code as 
 2. **Usage:**
    - In file `/src/Reader.cpp` above file is included. Function `void Reader::getTriangles(std::vector<Triangle>& triangles)` uses the `void printMsg()` function.
    - When reader is unable to read the file it calls the function and print error on console.
-   - Basically the use of the **extern "C"** keyword is to tell the C++ compiler not to do mangling while writing symbols in the **ObjectDump** file.s
+   - Basically the use of the **extern "C"** keyword is to tell the C++ compiler not to do mangling while writing symbols in the **ObjectDump** file.
+   - 
