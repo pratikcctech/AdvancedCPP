@@ -15,9 +15,9 @@
 
    `Writer::~Writer()`: Destructor. This doesn't do anything specific in this case.
 
-   - the `Writer` Class Definition path: `Assignment-1\headers\Writer.h`.
+   - the `Writer` Class Definition path: `assignment-1\headers\Writer.h`.
 
-   -their respective defination intheir respective cpp files  `Assignment-1\src\Writer.cpp`.
+   -their respective defination intheir respective cpp files  `assignment-1\src\Writer.cpp`.
 
    - Add member functions (getters) to the class to display the member variables of the class.
    - Example: `write` which will take string and it will load the  value of the `triangles` point into the txt file.
